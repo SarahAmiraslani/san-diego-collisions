@@ -60,9 +60,10 @@ For more information on San Diego beats see: https://www.sandiego.gov/police/ser
 - Number of observations: 49
 - This dataset includes Yelp data of night clubs in San Diego county. The data contain variables such as the name of the club, the club's ratings on yelp, the number of ratings the club has, the URL to the club's website, and the longitude and latitude coordinates corresponding to its location.
 
-We work on each of the datasets independently and did not need to combine datasets into a single dataframe. The yelp datasets allow us to see if any correlation lies within the location of these nightlife locations and vehicle collisions. If so, how high is the traffic collision density around these locations?
+We work on each of the datasets independently and did not need to combine datasets into a single dataframe. The yelp datasets allow us to see if any correlation lies within the location of these nightlife locations and vehicle collisions.
 
 ## Results
+![alt text](https://github.com/SarahAmiraslani/SD_collisions/blob/master/Screen%20Shot%202020-08-12%20at%203.18.54%20PM.png)
 
 ## Affiliation
 This was a class project done for [COGS 1O8: Data Science in Practice](https://github.com/COGS108)at the University of California, San Diego. 
