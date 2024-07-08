@@ -63,7 +63,7 @@ For more information on San Diego beats see: https://www.sandiego.gov/police/ser
 We work on each of the datasets independently and did not need to combine datasets into a single dataframe. The yelp datasets allow us to see if any correlation lies within the location of these nightlife locations and vehicle collisions.
 
 ## Results
-![alt text](https://github.com/SarahAmiraslani/SD_collisions/blob/master/Screen%20Shot%202020-08-12%20at%203.18.54%20PM.png)
+![alt text](https://github.com/SarahAmiraslani/SD_collisions/blob/master/map.png)
 
 ## Ethics & Privacy
 Despite pulling data from publically available datasets, insensitive analyses and false conclusions could affect the beliefs and well-being of San Diego residents. Thus, we have taken precautions to input data that respects the privacy of individuals whose information are in the dataset using the Safe Harbour protocol, as well as carefully considering our conclusions. Specifically, the information of any individual over the age of 90 was removed. Moreover, though we found more collisions in lower-income areas with a higher population of people of color, we took care to mention the crucial factors that likely effect this result such as neglected traffic lights, worn-out cars leading to car malfunctions, and damaged roads.
